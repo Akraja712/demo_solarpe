@@ -24,9 +24,9 @@ class Database
  
     // demo server
     private $db_host = "localhost";
-    private $db_user = "u743445510_solar_grids";
-    private $db_pass = "Solar@2024";
-    private $db_name = "u743445510_solar_grids"; 
+    private $db_user = "u117947056_demo_solarpe";
+    private $db_pass = "DemoSolarpe@2025";
+    private $db_name = "u117947056_demo_solarpe"; 
 
     private $con = false; // Check to see if the connection is active
     private $myconn = ""; // This will be our mysqli object
